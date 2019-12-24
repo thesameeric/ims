@@ -2,7 +2,7 @@
   <header>
     <div class="flex align-items-center">
       <p class="menuTrigger">
-        <i class="material-icons text-25">menu</i>
+        <i class="far fa-bars"></i>
       </p>
       <p class="text-20 mar-lr-20"><strong>LOGO</strong></p>
     </div>

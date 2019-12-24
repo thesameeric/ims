@@ -11,14 +11,12 @@
 }
 *:before, *:after {
   box-sizing: border-box;
-  font-family: 'Nunito', sans-serif;
 }
 body{
   position: relative;
-  font-size: 16px;
   font-family: 'Roboto', sans-serif;
   color: #303030;
-  background: #f0f0f0;
+  background: #f8f8f8;
   height: 100%;
   width: 100%;
 }
@@ -308,7 +306,7 @@ b, .strong {
   cursor: pointer;
 }
 .menuTrigger i {
-  font-size: 35px;
+  font-size: 25px;
 }
 @media only screen and (max-width: 720px) {
   .text-20 {
